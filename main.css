@@ -1,0 +1,94 @@
+#nav-bar{
+    background-color: rgb(238, 117, 125)  !important;
+    height: 60px !important;
+}
+.nav-bar{
+    margin-left: 20px;
+    font-size: 20px !important;
+    text-decoration: none !important;
+    color: white!important;
+    padding: 22px;
+    text-align: center;
+}
+.nav-bar:hover{
+    background-color: lightseagreen;
+    padding: 22px;
+}
+#dropdown{
+    margin-left: 20px;
+    font-size: 20px !important;
+    text-decoration: none !important;
+    background-color:  rgb(238, 117, 125)  !important;
+    border: none;
+    color: white !important;
+    text-align: center;
+
+}
+#dropdown:hover{
+    background-color: lightseagreen !important;
+  
+
+}
+#form{
+    margin-right: 80px;
+}
+
+
+
+
+
+.dp2:hover{
+    background-color:  rgb(238, 117, 125)  !important;
+}
+#head{
+    text-align: center !important;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color:brown;
+    background-color: lightskyblue;
+}
+#head:hover{
+    background-color:  lightseagreen;
+
+}
+#card1{
+    width: 300px !important;
+}
+#but1{
+    background-color: lightgreen;
+    color: red;
+    border: 1px solid lightgreen;
+    font-weight: bold;
+    font-size: 17px;
+}
+#but1:hover{
+   background-color: wheat; 
+}
+#but2{
+    font-weight: bold;
+    font-size: 17px;
+
+}
+#but2:hover{
+    background-color: wheat; 
+    color: red;
+
+}
+#card1{
+    float: left;
+    margin-top: 0px;
+    margin-left: 40px !important;
+}
+#header-card{
+    float: left;
+    margin-top: 0px;
+    margin-left: 40px !important;
+
+}
+
+
+
+
+
+
